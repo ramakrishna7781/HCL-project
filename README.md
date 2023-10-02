@@ -1,6 +1,5 @@
 Hey,there!
 
-INTRO...
 This is my project, Employee Management System.
 It is coded in bash script and SQLite is used for storing data,i.e., database.
 It helps the organisation to manage its employee details.
