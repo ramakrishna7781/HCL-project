@@ -12,7 +12,7 @@ Here are some steps that are to be followed.
 2. Open SQLite and create database named "employee.db"
 3. Now open terminal and use this command "chmod +x filename.sh"
 4. Then this command "./filename.sh"
-5. Then Employee Management System starts working.
+5. Then the Employee Management System starts working.
 6. It asks for username and password of the admin. Then provide the following credentials. Username: admin, Password: dbadmin
 
 Thank you.
